@@ -1,0 +1,276 @@
+
+megawin.png
+size: 1393,1155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_02
+  rotate: true
+  xy: 7, 1022
+  size: 131, 380
+  orig: 131, 380
+  offset: 0, 0
+  index: -1
+light/bw_vfx_a_screen_01
+  rotate: true
+  xy: 948, 2
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+light/bw_vfx_b_screen_01
+  rotate: false
+  xy: 2, 465
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+light/bw_vfx_d_add
+  rotate: false
+  xy: 328, 404
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+light/bw_vfx_f_screen
+  rotate: false
+  xy: 596, 730
+  size: 662, 239
+  orig: 662, 239
+  offset: 0, 0
+  index: -1
+lizi3/gfs_vfx_c_add_00
+  rotate: true
+  xy: 601, 981
+  size: 172, 178
+  orig: 250, 250
+  offset: 48, 33
+  index: -1
+lizi3/gfs_vfx_c_add_01
+  rotate: true
+  xy: 995, 971
+  size: 182, 186
+  orig: 250, 250
+  offset: 44, 27
+  index: -1
+lizi3/gfs_vfx_c_add_02
+  rotate: true
+  xy: 204, 791
+  size: 190, 192
+  orig: 250, 250
+  offset: 40, 19
+  index: -1
+lizi3/gfs_vfx_c_add_03
+  rotate: true
+  xy: 398, 789
+  size: 192, 196
+  orig: 250, 250
+  offset: 36, 12
+  index: -1
+lizi3/gfs_vfx_c_add_04
+  rotate: false
+  xy: 2, 836
+  size: 200, 184
+  orig: 250, 250
+  offset: 34, 4
+  index: -1
+lizi3/gfs_vfx_c_add_05
+  rotate: false
+  xy: 1183, 971
+  size: 208, 182
+  orig: 250, 250
+  offset: 29, 1
+  index: -1
+lizi3/gfs_vfx_c_add_06
+  rotate: false
+  xy: 781, 975
+  size: 212, 178
+  orig: 250, 250
+  offset: 27, 1
+  index: -1
+lizi3/gfs_vfx_c_add_07
+  rotate: false
+  xy: 389, 983
+  size: 210, 170
+  orig: 250, 250
+  offset: 23, 1
+  index: -1
+lizi3/gfs_vfx_c_add_08
+  rotate: false
+  xy: 2, 1151
+  size: 3, 2
+  orig: 250, 250
+  offset: 0, 248
+  index: -1
+lizi3/gfs_vfx_c_add_09
+  rotate: false
+  xy: 2, 1151
+  size: 3, 2
+  orig: 250, 250
+  offset: 0, 248
+  index: -1
+lizi3/gfs_vfx_c_add_10
+  rotate: false
+  xy: 2, 1151
+  size: 3, 2
+  orig: 250, 250
+  offset: 0, 248
+  index: -1
+lizi3/gfs_vfx_c_add_11
+  rotate: false
+  xy: 2, 1151
+  size: 3, 2
+  orig: 250, 250
+  offset: 0, 248
+  index: -1
+lizi4/gfs_vfx_b_screen_00
+  rotate: true
+  xy: 654, 404
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_01
+  rotate: true
+  xy: 2, 78
+  size: 324, 474
+  orig: 324, 510
+  offset: 0, 36
+  index: -1
+lizi4/gfs_vfx_b_screen_02
+  rotate: true
+  xy: 478, 78
+  size: 324, 468
+  orig: 324, 510
+  offset: 0, 30
+  index: -1
+
+megawin2.png
+size: 1308,1310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi4/gfs_vfx_b_screen_03
+  rotate: true
+  xy: 2, 984
+  size: 324, 472
+  orig: 324, 510
+  offset: 0, 23
+  index: -1
+lizi4/gfs_vfx_b_screen_04
+  rotate: true
+  xy: 476, 984
+  size: 324, 474
+  orig: 324, 510
+  offset: 0, 12
+  index: -1
+lizi4/gfs_vfx_b_screen_05
+  rotate: false
+  xy: 952, 830
+  size: 324, 478
+  orig: 324, 510
+  offset: 0, 10
+  index: -1
+lizi4/gfs_vfx_b_screen_06
+  rotate: true
+  xy: 2, 658
+  size: 324, 486
+  orig: 324, 510
+  offset: 0, 7
+  index: -1
+lizi4/gfs_vfx_b_screen_07
+  rotate: true
+  xy: 490, 504
+  size: 324, 490
+  orig: 324, 510
+  offset: 0, 5
+  index: -1
+lizi4/gfs_vfx_b_screen_08
+  rotate: false
+  xy: 982, 328
+  size: 324, 500
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+lizi4/gfs_vfx_b_screen_09
+  rotate: true
+  xy: 2, 178
+  size: 324, 504
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+lizi4/gfs_vfx_b_screen_10
+  rotate: true
+  xy: 508, 2
+  size: 324, 506
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+
+megawin3.png
+size: 1352,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_01
+  rotate: false
+  xy: 2, 35
+  size: 735, 470
+  orig: 735, 470
+  offset: 0, 0
+  index: -1
+bigwin_character
+  rotate: false
+  xy: 739, 2
+  size: 517, 503
+  orig: 517, 503
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_11
+  rotate: true
+  xy: 2, 833
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_12
+  rotate: true
+  xy: 514, 833
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_13
+  rotate: false
+  xy: 1026, 647
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_14
+  rotate: true
+  xy: 2, 507
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_15
+  rotate: true
+  xy: 514, 507
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+
+megawin4.png
+size: 544,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light/bw_vfx_c_screen_01
+  rotate: false
+  xy: 2, 2
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1

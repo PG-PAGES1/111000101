@@ -1,0 +1,370 @@
+
+s_wild_atlas_specials.png
+size: 1170,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_c_01
+  rotate: false
+  xy: 513, 2
+  size: 25, 27
+  orig: 27, 28
+  offset: 0, 1
+  index: -1
+fx_c_02
+  rotate: false
+  xy: 632, 2
+  size: 28, 24
+  orig: 29, 26
+  offset: 1, 2
+  index: -1
+fx_c_03
+  rotate: true
+  xy: 696, 4
+  size: 22, 21
+  orig: 23, 21
+  offset: 1, 0
+  index: -1
+fx_c_04
+  rotate: true
+  xy: 409, 2
+  size: 13, 20
+  orig: 14, 20
+  offset: 1, 0
+  index: -1
+fx_cloud
+  rotate: true
+  xy: 2, 4
+  size: 206, 194
+  orig: 208, 195
+  offset: 0, 1
+  index: -1
+fx_flash_00
+  rotate: true
+  xy: 473, 3
+  size: 12, 20
+  orig: 16, 22
+  offset: 0, 2
+  index: -1
+fx_flash_01
+  rotate: true
+  xy: 719, 6
+  size: 21, 38
+  orig: 24, 42
+  offset: 3, 4
+  index: -1
+fx_flash_02
+  rotate: true
+  xy: 662, 3
+  size: 23, 32
+  orig: 28, 35
+  offset: 0, 3
+  index: -1
+fx_flash_03
+  rotate: false
+  xy: 1091, 81
+  size: 29, 28
+  orig: 29, 31
+  offset: 0, 3
+  index: -1
+fx_glow
+  rotate: true
+  xy: 596, 77
+  size: 133, 131
+  orig: 134, 133
+  offset: 1, 2
+  index: -1
+fx_sparkle_01
+  rotate: true
+  xy: 967, 8
+  size: 89, 88
+  orig: 106, 107
+  offset: 11, 12
+  index: -1
+fx_sparkle_02
+  rotate: false
+  xy: 540, 4
+  size: 23, 25
+  orig: 26, 28
+  offset: 0, 3
+  index: -1
+s_w_frame
+  rotate: false
+  xy: 198, 11
+  size: 209, 199
+  orig: 212, 200
+  offset: 0, 1
+  index: -1
+s_w_gun_bg
+  rotate: false
+  xy: 956, 99
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+s_w_gun_bg_body_Back
+  rotate: true
+  xy: 228, 4
+  size: 5, 18
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+s_w_gun_bg_bolt
+  rotate: false
+  xy: 1091, 51
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+s_w_gun_bg_hammer
+  rotate: false
+  xy: 759, 6
+  size: 20, 21
+  orig: 22, 22
+  offset: 1, 0
+  index: -1
+s_w_gun_bg_shdw
+  rotate: false
+  xy: 729, 90
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+s_w_gun_bg_trig
+  rotate: false
+  xy: 764, 34
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+s_w_gun_fg
+  rotate: true
+  xy: 1057, 111
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+s_w_gun_fg_body_Back
+  rotate: true
+  xy: 198, 2
+  size: 7, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+s_w_gun_fg_bolt
+  rotate: false
+  xy: 1122, 49
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+s_w_gun_fg_hammer
+  rotate: false
+  xy: 1122, 27
+  size: 19, 20
+  orig: 21, 21
+  offset: 1, 0
+  index: -1
+s_w_gun_fg_shdw
+  rotate: false
+  xy: 845, 91
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+s_w_gun_fg_trig
+  rotate: false
+  xy: 431, 2
+  size: 13, 13
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+s_w_leaf_01
+  rotate: true
+  xy: 729, 77
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+s_w_leaf_02
+  rotate: false
+  xy: 1155, 100
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+s_w_leaf_03
+  rotate: false
+  xy: 1155, 89
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+s_w_leaf_04
+  rotate: false
+  xy: 1091, 41
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+s_w_leaf_05
+  rotate: true
+  xy: 743, 77
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+s_w_leaf_06
+  rotate: false
+  xy: 218, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+s_w_leaf_07
+  rotate: false
+  xy: 757, 77
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+s_w_leaf_shdw_01
+  rotate: false
+  xy: 769, 76
+  size: 10, 12
+  orig: 12, 13
+  offset: 0, 1
+  index: -1
+s_w_leaf_shdw_02
+  rotate: false
+  xy: 495, 3
+  size: 16, 12
+  orig: 20, 15
+  offset: 1, 2
+  index: -1
+s_w_leaf_shdw_03
+  rotate: false
+  xy: 764, 62
+  size: 14, 12
+  orig: 19, 15
+  offset: 1, 2
+  index: -1
+s_w_leaf_shdw_04
+  rotate: false
+  xy: 764, 48
+  size: 14, 12
+  orig: 18, 15
+  offset: 0, 3
+  index: -1
+s_w_leaf_shdw_05
+  rotate: false
+  xy: 446, 2
+  size: 12, 13
+  orig: 14, 15
+  offset: 0, 2
+  index: -1
+s_w_leaf_shdw_06
+  rotate: false
+  xy: 1155, 78
+  size: 9, 9
+  orig: 12, 11
+  offset: 0, 2
+  index: -1
+s_w_leaf_shdw_07
+  rotate: false
+  xy: 460, 2
+  size: 11, 13
+  orig: 14, 15
+  offset: 0, 2
+  index: -1
+s_w_roses_01
+  rotate: true
+  xy: 1057, 76
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+s_w_roses_02
+  rotate: false
+  xy: 565, 5
+  size: 33, 24
+  orig: 34, 26
+  offset: 1, 1
+  index: -1
+s_w_roses_03
+  rotate: false
+  xy: 1090, 8
+  size: 30, 31
+  orig: 30, 32
+  offset: 0, 1
+  index: -1
+s_w_roses_04
+  rotate: false
+  xy: 1057, 8
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+s_w_roses_shdw_01
+  rotate: true
+  xy: 1057, 41
+  size: 33, 32
+  orig: 36, 36
+  offset: 0, 3
+  index: -1
+s_w_roses_shdw_02_03
+  rotate: false
+  xy: 717, 29
+  size: 45, 46
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+s_w_roses_shdw_04
+  rotate: true
+  xy: 1122, 79
+  size: 30, 31
+  orig: 35, 34
+  offset: 5, 3
+  index: -1
+s_w_wild
+  rotate: true
+  xy: 409, 17
+  size: 193, 99
+  orig: 193, 99
+  offset: 0, 0
+  index: -1
+s_w_wild_fx_shine_01
+  rotate: false
+  xy: 600, 3
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+s_w_wild_fx_shine_02
+  rotate: true
+  xy: 884, 6
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+s_w_wild_fx_shine_03
+  rotate: false
+  xy: 781, 3
+  size: 101, 85
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+s_w_wild_fx_shine_04
+  rotate: true
+  xy: 632, 28
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+s_w_wild_fx_zoom
+  rotate: true
+  xy: 510, 31
+  size: 179, 84
+  orig: 179, 84
+  offset: 0, 0
+  index: -1

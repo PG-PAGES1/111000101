@@ -1,0 +1,283 @@
+
+skeleton.png
+size: 1390,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candle_screen
+  rotate: true
+  xy: 2, 824
+  size: 228, 249
+  orig: 228, 249
+  offset: 0, 0
+  index: -1
+jinbitupian/tw_coin_normal_00
+  rotate: false
+  xy: 1059, 980
+  size: 149, 149
+  orig: 175, 175
+  offset: 13, 13
+  index: -1
+jinbitupian/tw_coin_normal_01
+  rotate: false
+  xy: 1059, 980
+  size: 149, 149
+  orig: 175, 175
+  offset: 13, 13
+  index: -1
+jinbitupian/tw_coin_normal_02
+  rotate: true
+  xy: 908, 992
+  size: 137, 149
+  orig: 175, 175
+  offset: 19, 13
+  index: -1
+jinbitupian/tw_coin_normal_03
+  rotate: true
+  xy: 908, 992
+  size: 137, 149
+  orig: 175, 175
+  offset: 19, 13
+  index: -1
+jinbitupian/tw_coin_normal_04
+  rotate: true
+  xy: 304, 1034
+  size: 95, 149
+  orig: 175, 175
+  offset: 40, 13
+  index: -1
+jinbitupian/tw_coin_normal_05
+  rotate: true
+  xy: 304, 1034
+  size: 95, 149
+  orig: 175, 175
+  offset: 40, 13
+  index: -1
+jinbitupian/tw_coin_normal_06
+  rotate: true
+  xy: 2, 1098
+  size: 31, 149
+  orig: 175, 175
+  offset: 72, 13
+  index: -1
+jinbitupian/tw_coin_normal_07
+  rotate: true
+  xy: 2, 1098
+  size: 31, 149
+  orig: 175, 175
+  offset: 72, 13
+  index: -1
+jinbitupian/tw_coin_normal_08
+  rotate: true
+  xy: 153, 1054
+  size: 75, 149
+  orig: 175, 175
+  offset: 50, 13
+  index: -1
+jinbitupian/tw_coin_normal_09
+  rotate: true
+  xy: 153, 1054
+  size: 75, 149
+  orig: 175, 175
+  offset: 50, 13
+  index: -1
+jinbitupian/tw_coin_normal_10
+  rotate: true
+  xy: 455, 1004
+  size: 125, 149
+  orig: 175, 175
+  offset: 25, 13
+  index: -1
+jinbitupian/tw_coin_normal_11
+  rotate: true
+  xy: 455, 1004
+  size: 125, 149
+  orig: 175, 175
+  offset: 25, 13
+  index: -1
+light/bw_vfx_d_add
+  rotate: false
+  xy: 253, 678
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_00
+  rotate: true
+  xy: 2, 328
+  size: 324, 663
+  orig: 324, 702
+  offset: 0, 39
+  index: -1
+lizi/tw_vfx_c_add_01
+  rotate: true
+  xy: 667, 328
+  size: 324, 669
+  orig: 324, 702
+  offset: 0, 33
+  index: -1
+lizi/tw_vfx_c_add_02
+  rotate: true
+  xy: 2, 2
+  size: 324, 679
+  orig: 324, 702
+  offset: 0, 23
+  index: -1
+lizi/tw_vfx_c_add_03
+  rotate: true
+  xy: 683, 2
+  size: 324, 687
+  orig: 324, 702
+  offset: 0, 15
+  index: -1
+lizi/tw_vfx_c_add_09
+  rotate: true
+  xy: 579, 654
+  size: 324, 598
+  orig: 324, 702
+  offset: 0, 104
+  index: -1
+tw_vfx_a_screen
+  rotate: false
+  xy: 606, 995
+  size: 300, 134
+  orig: 300, 134
+  offset: 0, 0
+  index: -1
+tw_vfx_b_screen
+  rotate: false
+  xy: 1210, 961
+  size: 178, 168
+  orig: 178, 168
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1363,1234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/tw_vfx_c_add_05
+  rotate: true
+  xy: 2, 2
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_16
+  rotate: true
+  xy: 706, 2
+  size: 324, 655
+  orig: 324, 702
+  offset: 0, 47
+  index: -1
+tw_bg
+  rotate: false
+  xy: 760, 441
+  size: 540, 791
+  orig: 540, 791
+  offset: 0, 0
+  index: -1
+tw_char
+  rotate: false
+  xy: 2, 328
+  size: 756, 904
+  orig: 756, 904
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1196,1393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light/bw_vfx_c_screen_03
+  rotate: false
+  xy: 2, 36
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_06
+  rotate: false
+  xy: 760, 689
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_10
+  rotate: false
+  xy: 544, 2
+  size: 324, 606
+  orig: 324, 702
+  offset: 0, 96
+  index: -1
+lizi/tw_vfx_c_add_15
+  rotate: false
+  xy: 870, 41
+  size: 324, 646
+  orig: 324, 702
+  offset: 0, 56
+  index: -1
+tw_bottom
+  rotate: false
+  xy: 2, 610
+  size: 756, 781
+  orig: 756, 781
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1344,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light/bw_vfx_a_screen_03
+  rotate: false
+  xy: 2, 134
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_04
+  rotate: false
+  xy: 654, 567
+  size: 324, 695
+  orig: 324, 702
+  offset: 0, 7
+  index: -1
+lizi/tw_vfx_c_add_07
+  rotate: false
+  xy: 2, 560
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+lizi/tw_vfx_c_add_08
+  rotate: false
+  xy: 328, 563
+  size: 324, 699
+  orig: 324, 702
+  offset: 0, 3
+  index: -1
+lizi/tw_vfx_c_add_11
+  rotate: true
+  xy: 404, 237
+  size: 324, 612
+  orig: 324, 702
+  offset: 0, 90
+  index: -1
+lizi/tw_vfx_c_add_12
+  rotate: false
+  xy: 1018, 2
+  size: 324, 622
+  orig: 324, 702
+  offset: 0, 80
+  index: -1
+lizi/tw_vfx_c_add_14
+  rotate: false
+  xy: 980, 626
+  size: 324, 636
+  orig: 324, 702
+  offset: 0, 66
+  index: -1

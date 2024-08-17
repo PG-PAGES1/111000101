@@ -1,0 +1,139 @@
+
+symbol_disappear.png
+size: 1268,909
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx1/wh_vfx_d_screen_01
+  rotate: false
+  xy: 731, 15
+  size: 197, 183
+  orig: 315, 315
+  offset: 59, 65
+  index: -1
+fx1/wh_vfx_d_screen_02
+  rotate: false
+  xy: 253, 177
+  size: 209, 195
+  orig: 315, 315
+  offset: 53, 59
+  index: -1
+fx1/wh_vfx_d_screen_03
+  rotate: false
+  xy: 749, 200
+  size: 217, 203
+  orig: 315, 315
+  offset: 49, 56
+  index: -1
+fx1/wh_vfx_d_screen_04
+  rotate: false
+  xy: 500, 180
+  size: 229, 211
+  orig: 315, 315
+  offset: 43, 52
+  index: -1
+fx1/wh_vfx_d_screen_05
+  rotate: false
+  xy: 992, 206
+  size: 237, 219
+  orig: 315, 315
+  offset: 39, 46
+  index: -1
+fx1/wh_vfx_d_screen_06
+  rotate: true
+  xy: 1045, 660
+  size: 247, 221
+  orig: 315, 315
+  offset: 32, 40
+  index: -1
+fx1/wh_vfx_d_screen_07
+  rotate: false
+  xy: 992, 427
+  size: 243, 231
+  orig: 315, 315
+  offset: 30, 33
+  index: -1
+fx1/wh_vfx_d_screen_08
+  rotate: true
+  xy: 749, 405
+  size: 249, 241
+  orig: 315, 315
+  offset: 26, 21
+  index: -1
+fx1/wh_vfx_d_screen_09
+  rotate: true
+  xy: 253, 374
+  size: 251, 245
+  orig: 315, 315
+  offset: 28, 14
+  index: -1
+fx1/wh_vfx_d_screen_10
+  rotate: true
+  xy: 790, 662
+  size: 245, 253
+  orig: 315, 315
+  offset: 25, 7
+  index: -1
+fx1/wh_vfx_d_screen_11
+  rotate: false
+  xy: 2, 109
+  size: 247, 253
+  orig: 315, 315
+  offset: 19, 7
+  index: -1
+fx1/wh_vfx_d_screen_12
+  rotate: false
+  xy: 2, 364
+  size: 249, 261
+  orig: 315, 315
+  offset: 17, 1
+  index: -1
+fx1/wh_vfx_d_screen_13
+  rotate: false
+  xy: 284, 646
+  size: 249, 261
+  orig: 315, 315
+  offset: 12, 1
+  index: -1
+fx1/wh_vfx_d_screen_14
+  rotate: false
+  xy: 500, 393
+  size: 247, 251
+  orig: 315, 315
+  offset: 9, 1
+  index: -1
+fx1/wh_vfx_d_screen_15
+  rotate: false
+  xy: 535, 656
+  size: 253, 251
+  orig: 315, 315
+  offset: 5, 1
+  index: -1
+fx1/wh_vfx_d_screen_16
+  rotate: true
+  xy: 251, 2
+  size: 173, 207
+  orig: 315, 315
+  offset: 20, 47
+  index: -1
+wh_vfx_a_screen
+  rotate: false
+  xy: 2, 627
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+wh_vfx_b_screen
+  rotate: false
+  xy: 460, 50
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wh_vfx_c_screen
+  rotate: false
+  xy: 968, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

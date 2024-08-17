@@ -1,0 +1,139 @@
+
+spin.png
+size: 1240,990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_1/sb_vfx_b_screen_00
+  rotate: false
+  xy: 1016, 564
+  size: 192, 188
+  orig: 300, 300
+  offset: 53, 56
+  index: -1
+fx_1/sb_vfx_b_screen_01
+  rotate: true
+  xy: 823, 754
+  size: 234, 232
+  orig: 300, 300
+  offset: 32, 34
+  index: -1
+fx_1/sb_vfx_b_screen_02
+  rotate: false
+  xy: 986, 224
+  size: 252, 248
+  orig: 300, 300
+  offset: 23, 26
+  index: -1
+fx_1/sb_vfx_b_screen_03
+  rotate: true
+  xy: 571, 726
+  size: 262, 250
+  orig: 300, 300
+  offset: 18, 25
+  index: -1
+fx_1/sb_vfx_b_screen_04
+  rotate: true
+  xy: 510, 450
+  size: 266, 252
+  orig: 300, 300
+  offset: 16, 24
+  index: -1
+fx_1/sb_vfx_b_screen_05
+  rotate: true
+  xy: 317, 718
+  size: 270, 252
+  orig: 300, 300
+  offset: 14, 24
+  index: -1
+fx_1/sb_vfx_b_screen_06
+  rotate: true
+  xy: 256, 129
+  size: 270, 252
+  orig: 300, 300
+  offset: 14, 24
+  index: -1
+fx_1/sb_vfx_b_screen_07
+  rotate: true
+  xy: 256, 401
+  size: 272, 252
+  orig: 300, 300
+  offset: 13, 24
+  index: -1
+fx_1/sb_vfx_b_screen_08
+  rotate: true
+  xy: 2, 399
+  size: 274, 252
+  orig: 300, 300
+  offset: 12, 24
+  index: -1
+fx_1/sb_vfx_b_screen_09
+  rotate: true
+  xy: 2, 123
+  size: 274, 252
+  orig: 300, 300
+  offset: 12, 25
+  index: -1
+fx_1/sb_vfx_b_screen_10
+  rotate: true
+  xy: 510, 176
+  size: 272, 236
+  orig: 300, 300
+  offset: 14, 40
+  index: -1
+fx_1/sb_vfx_b_screen_11
+  rotate: true
+  xy: 748, 180
+  size: 268, 236
+  orig: 300, 300
+  offset: 14, 41
+  index: -1
+fx_1/sb_vfx_b_screen_12
+  rotate: false
+  xy: 1026, 2
+  size: 204, 220
+  orig: 300, 300
+  offset: 44, 55
+  index: -1
+fx_2/sb_auto_hover_vfx_a_screen
+  rotate: false
+  xy: 510, 4
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+fx_2/sb_auto_hover_vfx_b_screen
+  rotate: false
+  xy: 682, 4
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+fx_2/sb_hover_vfx_a_screen
+  rotate: false
+  xy: 854, 8
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+fx_2/sb_hover_vfx_b_screen
+  rotate: false
+  xy: 1057, 818
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+fx_2/sb_vfx_a_screen
+  rotate: false
+  xy: 764, 474
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+fx_2/sb_vfx_c_screen
+  rotate: false
+  xy: 2, 675
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+fx_chilun.jpg
+size: 1237,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light2/multi_vfx_a_screen
+  rotate: true
+  xy: 1130, 10
+  size: 261, 99
+  orig: 261, 99
+  offset: 0, 0
+  index: -1
+light2/multi_vfx_b_screen
+  rotate: false
+  xy: 1130, 273
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+light2/multi_vfx_c_add_01
+  rotate: false
+  xy: 726, 78
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+lizi1/multi_vfx_d_add_01
+  rotate: true
+  xy: 610, 53
+  size: 325, 114
+  orig: 425, 250
+  offset: 68, 42
+  index: -1
+lizi1/multi_vfx_d_add_02
+  rotate: true
+  xy: 412, 43
+  size: 335, 94
+  orig: 425, 250
+  offset: 62, 66
+  index: -1
+lizi1/multi_vfx_d_add_03
+  rotate: true
+  xy: 210, 37
+  size: 341, 98
+  orig: 425, 250
+  offset: 58, 65
+  index: -1
+lizi1/multi_vfx_d_add_04
+  rotate: true
+  xy: 508, 45
+  size: 333, 100
+  orig: 425, 250
+  offset: 54, 65
+  index: -1
+lizi1/multi_vfx_d_add_05
+  rotate: true
+  xy: 310, 41
+  size: 337, 100
+  orig: 425, 250
+  offset: 52, 65
+  index: -1
+lizi1/multi_vfx_d_add_06
+  rotate: true
+  xy: 106, 37
+  size: 341, 102
+  orig: 425, 250
+  offset: 50, 65
+  index: -1
+lizi1/multi_vfx_d_add_07
+  rotate: true
+  xy: 2, 33
+  size: 345, 102
+  orig: 425, 250
+  offset: 47, 65
+  index: -1
+lizi1/multi_vfx_d_add_08
+  rotate: true
+  xy: 1028, 91
+  size: 287, 100
+  orig: 425, 250
+  offset: 47, 64
+  index: -1
+lizi1/multi_vfx_d_add_09
+  rotate: false
+  xy: 726, 2
+  size: 279, 74
+  orig: 425, 250
+  offset: 57, 64
+  index: -1
+lizi1/multi_vfx_d_add_10
+  rotate: true
+  xy: 2, 4
+  size: 27, 52
+  orig: 425, 250
+  offset: 301, 87
+  index: -1

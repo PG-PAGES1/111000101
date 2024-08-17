@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 167,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzitu/gold_1
+  rotate: true
+  xy: 2, 21
+  size: 35, 98
+  orig: 36, 99
+  offset: 1, 1
+  index: -1
+shuzitu/gold_x
+  rotate: true
+  xy: 102, 2
+  size: 54, 63
+  orig: 55, 64
+  offset: 0, 1
+  index: -1
